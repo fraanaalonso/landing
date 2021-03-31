@@ -1,0 +1,22 @@
+.back-index{
+    background-image: url(https://www.holaluz.com/_nuxt/img/cover.2dbce9e.jpg);
+}
+
+h2{
+    font-family: 'Dela Gothic One', cursive;
+    text-align: left;
+    font-size: 45px;
+}
+
+.btn-rosa{
+    background-color: #e6007d;
+    color: white;
+    font-weight: bolder;
+}
+
+.btn-rosa:hover{
+    background-color: #b3005d;
+    color: white;
+    font-weight: bolder;
+}
+
